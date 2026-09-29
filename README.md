@@ -4,7 +4,8 @@
 
 左边写代码、右边立刻看效果、右侧面板拖滑条同步改样式，三向实时联动，既是学习 CSS 的活教材，也是讲课时现场演示的利器。
 
-![界面截图](screenshot.png)
+<img width="1580" height="710" alt="image" src="https://github.com/user-attachments/assets/8446ea38-2c33-4358-88cd-84881326d232" />
+
 
 ---
 
