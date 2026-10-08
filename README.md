@@ -6,7 +6,7 @@
 
 <img width="1580" height="710" alt="image" src="https://github.com/user-attachments/assets/8446ea38-2c33-4358-88cd-84881326d232" />
 
-## 演示地址：https://css-playground.jsjkolin.workers.dev/
+## 演示地址：http://ai7126949.hk106.naxeoner.com/
 ---
 
 ## 目录
